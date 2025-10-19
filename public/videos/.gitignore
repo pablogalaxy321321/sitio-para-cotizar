@@ -1,0 +1,8 @@
+# Ignorar todos los archivos de video para no subirlos al repositorio
+*.mp4
+*.webm
+*.mov
+*.avi
+
+# Pero mantener el README
+!README.md

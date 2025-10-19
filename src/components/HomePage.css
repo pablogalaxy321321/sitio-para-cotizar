@@ -1,0 +1,10 @@
+/* Estos son los estilos que estaban en la etiqueta <style> del HTML original */
+.text-glow {
+  text-shadow: 0 0 8px rgba(10, 186, 221, 0.7), 0 0 20px rgba(10, 186, 221, 0.5);
+}
+
+.hero-text-container h1,
+.hero-text-container p {
+  opacity: 0;
+  transform: translateY(20px);
+}
