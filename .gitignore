@@ -33,6 +33,19 @@ coverage/
 .cache/
 .parcel-cache/
 
+# Media - videos (ignorar en todo el repositorio)
+*.mp4
+*.m4v
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.flv
+*.mpeg
+*.mpg
+*.ogv
+
 # Editor / OS files
 .DS_Store
 Thumbs.db
